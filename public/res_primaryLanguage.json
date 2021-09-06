@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Davina Griss. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "👋 I'm Anurag Dubey. Thanks for visitng my profile. I am fullstack developer based out of India with over 9 years of experience .I have experience ranging from desktop applications , web applications and cloud applications. I have maintained APIs that handle close to 12K rpm , processed 120K records before timeout and web apps that have 9 million visits a day . I like solving complex challanges and find simplicity in it. Please connect with me on LinkedIn or the form below 💜",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -81,37 +81,71 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
+        "company": "Globant",
+        "title": "Sr Software Developer",
         "years": "10.2019 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "C#","Golang"
         ],
         "technologies": [
           "REST API",
-          "RxJS",
+          "grpc",
           "JavaScript",
           "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
+          "AWS",
+          "C#",
           ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "Reactjs",
+          "Golang",
+          "Arora DB",
+          "DynamoDB",
+          "Docker"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "ZS Associates",
+        "title": "Sr Software Consultant",
+        "years": "01.2019 - 09.2019",
         "mainTech": [
-          "Angular 7/8"
+          "Angularjs 1.6" , "C#"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
+          "C#",
           "JavaScript",
-          "DHTMLX Gantt"
+          "Angularjs",
+          "JavaScript",
+          "RestAPI",
+          "MSSQL"
+        ]
+      },
+      {
+        "company": "Dassault Systemes",
+        "title": "Software Consultant",
+        "years": "06.2017 - 01.2019",
+        "mainTech": [
+          "C#" , "grpc"
+        ],
+        "technologies": [
+          "C#",
+          "JavaScript",
+          "grpc",
+          "RestAPI",
+          "SQLLite"
+        ]
+      },
+      {
+        "company": "Infosys Ltd.",
+        "title": "Sr Software Consultant",
+        "years": "10.2012 - 06.2017",
+        "mainTech": [
+          "C#"
+        ],
+        "technologies": [
+          "C#",
+          "winforms",
+          "WCF",
+          "REST API",
+          "RPA"
         ]
       }
     ]

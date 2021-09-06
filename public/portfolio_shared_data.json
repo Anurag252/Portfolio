@@ -1,20 +1,25 @@
 {
     "basic_info": {
-      "name": "Davina Griss",
-      "titles": [ "Front-end Developer", "Senior Data Engineer", "Dev Team lead", "Mobile App Developer" ],
+      "name": "Anurag Dubey",
+      "titles": [ "Front-end Developer", "Full-stack Developer", "Dev Team lead", "Backend Developer" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/anurag252",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
+          "name": "Linkedin",
+          "url": "https://in.linkedin.com/in/anurag-dubey-364850109",
+          "class": "fab fa-instagram"
+        },
+        {
+          "name": "Leetcode",
+          "url": "https://www.leetcode.com/anurag252",
           "class": "fab fa-instagram"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "myprofilepic.png"
     },
     "skills": {
       "icons": [
@@ -29,12 +34,12 @@
           "level": "95"
         },
         {
-          "name": "Angular",
+          "name": "Reactjs",
           "class": "devicon-angularjs-plain",
           "level": "80"
         },
         {
-          "name": "TypeScript",
+          "name": "Golang",
           "class": "devicon-typescript-plain",
           "level": "90"
         },
@@ -60,6 +65,21 @@
         },
         {
           "name": "MySql",
+          "class": "devicon-mysql-plain",
+          "level": "60"
+        },
+        {
+          "name": "Docker",
+          "class": "devicon-mysql-plain",
+          "level": "60"
+        },
+        {
+          "name": "AWS",
+          "class": "devicon-mysql-plain",
+          "level": "60"
+        },
+        {
+          "name": "Azure",
           "class": "devicon-mysql-plain",
           "level": "60"
         }
