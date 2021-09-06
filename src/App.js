@@ -7,14 +7,11 @@ import About from "./components/About";
 import Experience from "./components/Experience";
 import Projects from "./components/Projects";
 import Skills from "./components/Skills";
-import ReactGA from 'react-ga';
 
 
 class App extends Component {
 
   constructor(props) {
-    ReactGA.initialize('G-31MG41H3ZV');
-    ReactGA.pageview(window.location.pathname + window.location.search);
     super();
     this.state = {
       foo: "bar",
