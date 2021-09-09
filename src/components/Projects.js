@@ -1,5 +1,7 @@
 import React, { Component } from "react";
 import ProjectDetailsModal from "./ProjectDetailsModal";
+import  { useLocation } from 'react-router-dom'
+
 
 class Projects extends Component {
   constructor(props) {
@@ -11,9 +13,7 @@ class Projects extends Component {
   }
 
   render() {
-    let detailsModalShow = (data) => {
-      this.setState({ detailsModalShow: true, deps: data });
-    };
+
 
     let detailsModalClose = () => this.setState({ detailsModalShow: false });
     if (this.props.resumeProjects && this.props.resumeBasicInfo) {
@@ -26,18 +26,19 @@ class Projects extends Component {
             style={{ cursor: "pointer" }}
           >
             <span className="portfolio-item d-block">
-              <div className="foto" onClick={() => detailsModalShow(projects)}>
+              <div className="foto">
                 <div>
-                  <img
-                    src={projects.images[0]}
+                  <img  
+                    src={projects.src}
                     alt="projectImages"
-                    height="230"
+                    height="165"
                     style={{marginBottom: 0, paddingBottom: 0, position: 'relative'}}
                   />
                   <span className="project-date">{projects.startDate}</span>
                   <br />
                   <p className="project-title-settings mt-3">
-                    {projects.title}
+                  <a href={projects.iframsrc[0]}>{projects.title}</a>
+                     
                   </p>
                 </div>
               </div>

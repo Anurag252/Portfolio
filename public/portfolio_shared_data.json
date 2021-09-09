@@ -11,12 +11,12 @@
         {
           "name": "Linkedin",
           "url": "https://in.linkedin.com/in/anurag-dubey-364850109",
-          "class": "fab fa-instagram"
+          "class": "fab fa-linkedin"
         },
         {
           "name": "Leetcode",
           "url": "https://www.leetcode.com/anurag252",
-          "class": "fab fa-instagram"
+          "class": "fab fa-leetcode"
         }
       ],
       "image": "myprofilepic.png"
