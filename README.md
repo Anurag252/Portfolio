@@ -1,5 +1,5 @@
 #Portfolio 
-A personal portfolio built with react . Live app https:codingdev.xyz
+A personal portfolio built with react . Live app https://codingdev.xyz
 
 
 <img width="80%" align="center" src="https://github.com/Dorota1997/react-frontend-dev-portfolio/blob/images/images/portfolio_mockup.png" alt="portfolio template mockup" /> <br/>
